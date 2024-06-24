@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+seaborn
+nltk
+matplotlib
+wordcloud
+pprint
+string
+wordcloud
+networkx
+scikit-learn
+pillow
+re
